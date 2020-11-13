@@ -29,12 +29,12 @@ class PersonTest {
     void testFacultyToString() {
         Faculty faculty = new Faculty();
         faculty.setName("Grethe");
-        assertEquals("Grethe",faculty.getName());
+        assertEquals("Grethe", faculty.getName());
     }
     @Test
     void testStaffToString() {
         Staff staff = new Staff();
         staff.setName("Marianne");
-        assertEquals("Marianne",staff.getName());
+        assertEquals("Marianne", staff.getName());
     }
 }

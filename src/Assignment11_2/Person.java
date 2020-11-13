@@ -28,9 +28,7 @@ package Assignment11_2;
  *
  */
 
-
 public class Person {
-
     private String name;
     private String address;
     private int phoneNumber;
@@ -43,7 +41,6 @@ public class Person {
     public void setName(String name) {
         this.name = name;
     }
-
 
     public static void main(String[] args) {
 
