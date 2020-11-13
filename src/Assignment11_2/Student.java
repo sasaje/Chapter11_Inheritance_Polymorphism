@@ -8,7 +8,7 @@
 
 package Assignment11_2;
 
-public class Student extends Person{
+public class Student extends Person {
     enum Status {
         FRESHMAN,
         SOPHOMORE,
